@@ -11,7 +11,7 @@ Supports 10 site types: ecommerce, SaaS, news, corporate, restaurant, education,
 Clone into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/llms-pipeline.git ~/.claude/skills/llms-pipeline
+git clone https://github.com/afgurbuz/llms-pipeline.git ~/.claude/skills/llms-pipeline
 ```
 
 Install Python dependencies:
